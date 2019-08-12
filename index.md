@@ -7,28 +7,16 @@ published: true
 
 **Welcome to MA321!** So what's this class about?
 
+The name of this course is a bit mysterious - more appropriately, it would be called "Analysis" or even "Real analysis", using the standard mathematical language. The aim of this course is both to further solidify your proof-writing skills (that you started to build in MA211), and to give rigorous foundation to concepts of derivatives and integrals (which is why it is officially called "Advanced Calculus").
 
-Differential equations are the most common mathematical framework for modeling time-changing phenomena arising in various physical sciences. Differential equations couple variables with their derivatives. _Ordinary_ differential equations are those in which only one independent variable (e.g., time, one spatial direction) is used to take the derivative of (one or more) dependent variables.
+"Analysis" in mathematics refers to a type of study that deals with concepts of limits, infinitely small (infinitesimal) and infinitely large (simply... infinite) quantities. Real analysis therefore deals with those concepts as they relate to real numbers. There are other types of analyses: complex, functional, harmonic, etc. Many of these topics build on the concepts we will cover in this class.
 
-There are other classes of differential equations: PDEs, SDEs, DAEs, etc. Does this mean ODEs are somehow boring? Not at all! If many variables (quantities of interest) are coupled, or if those couplings are nonlinear, the resulting behavior can be very rich, indeed, it can appear to be noise-like ("chaotic") even though no randomness is involved.
+On the other hand "calculus" by itself means "system of calculation". So there are such things as "matrix calculus", "calculus of variations", "operator calculus", etc. The "Calculus" as you encountered it in your previous classes is more properly called "Infinitesimal calculus", as it deals with calculating properties of functions based on tiny changes in their arguments.
 
-![](https://rogueplanet.tv/wp-content/uploads/2014/09/jurassic-park-jeff-goldblum-tyrannosaur.jpg){: style="float: left;margin: 15px;" width="35%"} Those of you who have seen the original Jurassic Park movie may remember the edgy character of Ian Malcolm (played by Jeff Goldblum) who [describes the "chaos theory" to his paleobotanist colleague](https://youtu.be/n-mpifTiPV4). Well, the name "chaos theory" is really a popular-writing name for the theory of nonlinear dynamics, out of which nonlinear ODEs are typically the primary topic to be encountered by students.
+OK, so now that we realized that our class should really be called "Advanced inifinitesimal calculus", we can ask -- in what way is it "Advanced"? Well, in your Calc I-III you concerned yourself mostly with rules of calculation, memorizing them, applying them to increasingly complicated functions, and finding use for them in various modeling problems. In this class we tackle the important questions of *Why THESE rules work?*
 
-In this class, we will encounter such things as the "butterfly effect", the "[Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system)":
-![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif){: style="float: right;margin-right: 7px;margin-top: 7px;" width="20%"}
+As important as content of our investigations will be the process. This is a proof-based class, which means we'll strive to provide as mathematically and logically rigorous arguments for our conclusions. Even if you never end up working in real, or any other analysis, this class will sharpen your idea for identifying things that need to be proven, and formulating questions that demand proofs as answers.
 
-The main topic of this class are low-dimensional, nonlinear ODEs, such as equations for the Lorenz system (whose _butterfly attractor_ is depicted by the animation):
-
-$$\begin{aligned}
-\dot x &= \sigma(y-x)\\
-\dot y &= x(\rho - z) - y \\
-\dot z &= xy - \beta z \\
-\end{aligned}$$
-where $$\rho = 28,\ \sigma = 10, \beta = 8/3$$.
-
-In this  setting, we will formulate the theory that specifies when the equations give plausible models for nature ("existence and uniqueness of solutions"). In contrast with undergraduate ODE classes, which mostly focus on different techniques for _solving_ ODEs, we will deal with equations that typically cannot be solved by analytic techniques. Instead, we will learn about tools that allow us to characterize what resulting solutions ("trajectories") look like without finding formulas for them (so-called _qualitative analysis_). The crucial property we will analyze, after assuring that solutions exist, will be stability -- notion that some solutions may attract or repell nearby solutions, and so organize the overall behavior of all solutions.
-
-If you just cannot wait for the class to start reading about this exciting area of math, I suggest you [pick up the book by James Gleick](https://www.goodreads.com/book/show/64582.Chaos) that initially got me interested in this field (when I was a 1st year undergraduate).
 
 ---
 
