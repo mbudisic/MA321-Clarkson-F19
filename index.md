@@ -1,18 +1,18 @@
 ---
-title: 'MA533: Ordinary Differential Equations'
-description: 'Instructor: Dr. Marko Budišić (SC391) &mdash; <a href="mailto:marko@clarkson.edu">marko@clarkson.edu</a> &mdash; MoWeFr 3-3.50p  (SC340) &mdash; Text: Meiss, Revised ed.'
+title: 'MA321: Advanced Calculus I'
+description: 'Instructor: Dr. Marko Budišić (SC391) &mdash; <a href="mailto:marko@clarkson.edu">marko@clarkson.edu</a> &mdash; MoWeFr 3-3.50p  (SC340) &mdash; Text: Lebl, Basic Analysis I'
 layout: default
 published: true
 ---
 
-**Welcome to MA533!** So what's this class about?
+**Welcome to MA321!** So what's this class about?
 
 
-Differential equations are the most common mathematical framework for modeling time-changing phenomena arising in various physical sciences. Differential equations couple variables with their derivatives. _Ordinary_ differential equations are those in which only one independent variable (e.g., time, one spatial direction) is used to take the derivative of (one or more) dependent variables. 
+Differential equations are the most common mathematical framework for modeling time-changing phenomena arising in various physical sciences. Differential equations couple variables with their derivatives. _Ordinary_ differential equations are those in which only one independent variable (e.g., time, one spatial direction) is used to take the derivative of (one or more) dependent variables.
 
 There are other classes of differential equations: PDEs, SDEs, DAEs, etc. Does this mean ODEs are somehow boring? Not at all! If many variables (quantities of interest) are coupled, or if those couplings are nonlinear, the resulting behavior can be very rich, indeed, it can appear to be noise-like ("chaotic") even though no randomness is involved.
 
-![](https://rogueplanet.tv/wp-content/uploads/2014/09/jurassic-park-jeff-goldblum-tyrannosaur.jpg){: style="float: left;margin: 15px;" width="35%"} Those of you who have seen the original Jurassic Park movie may remember the edgy character of Ian Malcolm (played by Jeff Goldblum) who [describes the "chaos theory" to his paleobotanist colleague](https://youtu.be/n-mpifTiPV4). Well, the name "chaos theory" is really a popular-writing name for the theory of nonlinear dynamics, out of which nonlinear ODEs are typically the primary topic to be encountered by students. 
+![](https://rogueplanet.tv/wp-content/uploads/2014/09/jurassic-park-jeff-goldblum-tyrannosaur.jpg){: style="float: left;margin: 15px;" width="35%"} Those of you who have seen the original Jurassic Park movie may remember the edgy character of Ian Malcolm (played by Jeff Goldblum) who [describes the "chaos theory" to his paleobotanist colleague](https://youtu.be/n-mpifTiPV4). Well, the name "chaos theory" is really a popular-writing name for the theory of nonlinear dynamics, out of which nonlinear ODEs are typically the primary topic to be encountered by students.
 
 In this class, we will encounter such things as the "butterfly effect", the "[Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system)":
 ![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif){: style="float: right;margin-right: 7px;margin-top: 7px;" width="20%"}
