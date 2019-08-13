@@ -7,6 +7,8 @@ published: true
 
 **Welcome to MA321!** So what's this class about?
 
+This is, for some of you perhaps, the first MATH-math course. A course rarely taken, or appreciated by non-mathematicians. It's where we get our hands dirty, where we see the beauty as the mathematical structures arise from the rules.
+
 The name of this course is a bit mysterious - more appropriately, it would be called "Analysis" or even "Real analysis", using the standard mathematical language. The aim of this course is both to further solidify your proof-writing skills (that you started to build in MA211), and to give rigorous foundation to concepts of derivatives and integrals (which is why it is officially called "Advanced Calculus").
 
 "**Analysis**" in mathematics refers to a type of study that deals with concepts of limits, infinitely small (infinitesimal) and infinitely large (simply... infinite) quantities. Real analysis therefore deals with those concepts as they relate to real numbers. There are other types of analyses: complex, functional, harmonic, etc. Many of these topics build on the concepts we will cover in this class.
