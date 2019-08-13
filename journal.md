@@ -7,6 +7,10 @@ description: ''
 1. TOC
 {: toc style="font-size:10pt; column-count:3; column-width: 20px; column-gap: 20px;" }
 
+For every topic below, I will choose several questions, prompts, definitions, etc. that you either have to find in the listed chapter or answer on your own. My goal here is not to ask anything too difficult, but rather focus your reading.
+
+I will regularly check if you're maintaining your journal. At beginning of each class meeting, you will submit answers to the prompts on one (preferrably) sheet of three-hole punched paper. After I check that you completed your work, I'll return the sheet to you. Then you will put the sheet into your 3-hole binder to serve as a reference for the rest of the semester.
+
 ## Week 1
 ### Mon  -- Sep 2	-- Math Girls
 ### Wed  -- Sep 4	-- 0.3 Basic set theory

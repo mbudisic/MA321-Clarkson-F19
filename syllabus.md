@@ -36,7 +36,11 @@ Detailed list of topics can be found in the [Schedule](./schedule.html) section 
 
 **Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. I specifically chose the book that is inexpensive so that everyone can afford the hardcopy. If you cannot, please come see me and I'll find a way to get you a printed copy.
 
-**Why the hard-copy push?** I insist on hard-copy textbooks because writing proofs requires intense concentration, free from distractions. If you need to have a laptop or a tablet open to work on proofs, you expose yourself to distractions that sap your concentration. Be better than that..
+**Why the hard-copy push?** I insist on hard-copy textbooks because writing proofs requires intense concentration, free from distractions. If you need to have a laptop or a tablet open to work on proofs, you expose yourself to distractions that sap your concentration. Be better than that.
+
+[![https://upload.wikimedia.org/wikipedia/en/0/02/Math_Girls_-_book_cover.jpg](https://upload.wikimedia.org/wikipedia/en/0/02/Math_Girls_-_book_cover.jpg){:width="15%" style="float: right;margin-right: 7px;margin-top: 7px;"}](http://bentobooks.com/mathgirls/)
+In addition to the textbook, I ask you to read the first volume of [Hiroshi Yuki's novel Math Girls](http://bentobooks.com/mathgirls/). The plot of the novel is thin (love in high school), but the book communicates the passion for and beauty of mathematics as few other accessible works do so. Here's a review from the [AMS Notices](https://www.ams.org/notices/201207/rtx120700956p.pdf) (flagship magazine for the American Mathematical Society) and [MAA Reviews](https://www.maa.org/press/maa-reviews/math-girls).
+
 
 ## Prerequisites
 
@@ -48,7 +52,7 @@ If you are looking for completing a math-minor, this class is likely not the bes
 
 #### Preparation for classes
 
-Students are expected to read the textbook **ahead** of the lecture. The lectures will assume that students have read at least once through the listed chapters. The preparation will be tested through [Journals](./journal.html).
+Students are expected to read the textbook **ahead** of the lecture. The lectures will assume that students have read at least once through the listed chapters. The preparation will be tested through [Journals](./journal.html) and index-card quizzes.
 
 I suggest that you **take some amount of time during the weekend** and complete the readings and journal questions. That way you won't risk running out of time during the week, and you'll need only a quick skim before the class to get up to speed.
 
