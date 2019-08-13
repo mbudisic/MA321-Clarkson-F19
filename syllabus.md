@@ -30,11 +30,11 @@ For those students aiming to enter graduate programs in mathematics, this course
 
 ## Topics and textbook
 
-[![./img/lebl-cover-photo.jpg]({{site.baseurl}}/img/lebl-cover-photo.jpg){:width="15%" style="float: right;margin-left: 7px;margin-top: 7px;"}](https://www.jirka.org/ra/)
+[![./img/lebl-cover-photo.jpg]({{site.baseurl}}/img/lebl-cover-photo.jpg){:width="15%" style="float: left;margin-right: 7px;margin-top: 7px;"}](https://www.jirka.org/ra/)
 
 Detailed list of topics can be found in the [Schedule](./schedule.html) section of this site. These topics correspond to topics from n [**Jiri Lebl's, Basic Analysis: Introduction to Real Analysis Vol I.**](https://www.jirka.org/ra/) The book is completely free to use in PDF form. I strongly encourage you **buy the hardcopy**: either the [lulu.com version (purple)](http://www.lulu.com/shop/jiri-lebl/basic-analysis-i-introduction-to-real-analysis-volume-i/paperback/product-24102440.html) or [Amazon version](https://smile.amazon.com/dp/1718862407). They are about $15 to defray costs of printing.
 
-[![https://upload.wikimedia.org/wikipedia/en/0/02/Math_Girls_-_book_cover.jpg](https://upload.wikimedia.org/wikipedia/en/0/02/Math_Girls_-_book_cover.jpg){:width="12%" style="float: right;margin-right: 7px;margin-top: 7px;"}](http://bentobooks.com/mathgirls/) **Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. I specifically chose the book that is inexpensive so that everyone can afford the hardcopy. If you cannot, please come see me and I'll find a way to get you a printed copy.
+[![https://upload.wikimedia.org/wikipedia/en/0/02/Math_Girls_-_book_cover.jpg](https://upload.wikimedia.org/wikipedia/en/0/02/Math_Girls_-_book_cover.jpg){:width="12%" style="float: right;margin-left: 7px;margin-top: 7px;"}](http://bentobooks.com/mathgirls/) **Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. I specifically chose the book that is inexpensive so that everyone can afford the hardcopy. If you cannot, please come see me and I'll find a way to get you a printed copy.
 
 **Why the hard-copy push?** I insist on hard-copy textbooks because writing proofs requires intense concentration, free from distractions. If you need to have a laptop or a tablet open to work on proofs, you expose yourself to distractions that sap your concentration. Be better than that.
 
