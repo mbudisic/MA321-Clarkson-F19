@@ -9,6 +9,24 @@ description: 'Advanced Calculus I in Fall 2019 as taught by Marko Budišić'
 
 ## Summary of the class
 
+This class serves a dual purpose:
+
+1. It provides students with the rigourous foundation of infinitesimal calculus, including properties of real numbers and their sequences and series, basic function theory and operations of differentiation and integration.
+2. It sharpens the reading and writing of proofs in the context of mathematical analysis.
+
+By the end of this class, successful students will:
+
+- be able to explain the differences between the set of real numbers and the set of fractions/decimals, including answer questions such as "Is 0.9999... = 1?"
+- be able to discuss various limits of sequences and ordered infinite sums (series) of real numbers,
+- use concepts and theorems, such as Bolzano--Weierstrass and Cauchy sequences, that underlie topology,
+- be able to rigorously analyze continuity properties of functions and their sequences, and formulate proofs based on this property,
+- be able to provide rigorous definition of a single-variable derivative and differentiability of functions, with all its implications on properties of the function
+- be able to provide rigorous definition of integrals, including proving the Fundamental Theorem of Calculus,
+- distinguish between pointwise and uniform convergence of a sequence of functions,
+- integrate all that was learned to prove theorems on existence and uniqueness of solutions of ODEs,
+- sharpen their proof-writing skills to the advanced-undergraduate level.
+
+For those students aiming to enter graduate programs in mathematics, this course is indispensible.
 
 ## Topics and textbook
 
@@ -36,17 +54,17 @@ Students are expected to read the textbook **ahead** of the lecture. The lecture
 
 #### Homeworks
 
-There will be 10 homeworks during the semester. Students are expected to work together to solve the problems, but then each of the student has to put together their own individual report that they will submit.
+There will be 10 homeworks during the semester. Students are expected to work together to solve the problems, but then each of the student has to put together their own individual report that they will submit. There will be several mandatory problems on each homework, and a few optional ones. Students aiming for high-Bs and As should definitely attempt to complete optional problems every time.
 
-It is expected that solutions to the homework will strive for mathematical maturity - the goal is not just to get the solution, but to justify and interpret the steps along the way.
+It is expected that solutions to the homework will strive for mathematical maturity - the goal is not just to get the solution (solutions are typically known in this class, or can be looked up), but to justify and interpret the steps along the way.
 
 The main purpose of the homework is to expose you to the problems and the level of rigor expected of you in this class, and give you feedback. However, the accuracy of the homeworks will not contribute to your grade.
 
 ## Assessment
 
-There will be two midterms and a final.
+The grade will be based on your score on **two midterms and on the final exam**. The exams will have questions labeled according to the level of difficulty (C-level, B-level, A-level); completing higher-level problems will award you the appropriate grade.
 
-The grade will be based on your score on midterms and on the final exam. You will get feedback on homeworks, but that feedback will not factor into your final grade. You will have to submit all homeworks, however, to get a passing grade in this course.
+You will get feedback on homeworks, but **feedback on homeworks will not factor into your final grade**. You will **have to submit all homeworks on time**, however, to get D or higher in this course. (Necessary, but not sufficient condition.)
 
 I may offer portions of midterm for re-do, in order to boost your grade. Only students who have submitted all homeworks, and 90% of journal entries will be eligible to do so.
 
