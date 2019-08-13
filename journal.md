@@ -15,10 +15,13 @@ I will regularly check if you're maintaining your journal. At beginning of each 
 ### Mon  -- Sep 2	-- Math Girls
 ### Wed  -- Sep 4	-- 0.3 Basic set theory
 
-Additional reading: BTT, Appendix A.
+Additional reading: TBB, Appendix A.
 
 
 ### Fri  -- Sep 6	-- 0.3 Basic set theory
+
+Additional reading: TBB, Appendix A.
+
 
 ## Week 2
 ### Mon  -- Sep 9	-- 1.1 Basic properties of real numbers
