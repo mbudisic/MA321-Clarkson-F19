@@ -1,6 +1,6 @@
 ---
 title: 'MA321: Advanced Calculus I'
-description: 'Instructor: Dr. Marko Budišić (SC391) &mdash; <a href="mailto:marko@clarkson.edu">marko@clarkson.edu</a> &mdash; MoWeFr 11-11.50p  (SC340) &nbsp; Textbook: Lebl, Basic Analysis I'
+description: 'Instructor: Dr. Marko Budišić (SC391) &mdash; <a href="mailto:marko@clarkson.edu">marko@clarkson.edu</a> &mdash; MoWeFr 11-11.50p  (SC340) &mdash; Textbook: Lebl, Basic Analysis I'
 layout: default
 published: true
 ---

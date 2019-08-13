@@ -50,7 +50,15 @@ If you are looking for completing a math-minor, this class is likely not the bes
 
 Students are expected to read the textbook **ahead** of the lecture. The lectures will assume that students have read at least once through the listed chapters. The preparation will be tested through [Journals](./journal.html).
 
+I suggest that you **take some amount of time during the weekend** and complete the readings and journal questions. That way you won't risk running out of time during the week, and you'll need only a quick skim before the class to get up to speed.
+
 #### Participation and Note-taking
+
+During class, you should expect to work actively. I will assume you have completed the assigned readings for the class and I will strive not to go over every detail from the textbook. Rather, we'll work on problems, discuss questions, etc.
+
+**Do not be surprised if you have to work in pairs, on the blackboard, etc. ** Despite its reputation, mathematics is a collaborative discipline. Most of your time thinking about this class will likely be spent alone. We'll use the class time to work together.
+
+You will need a notebook (preferrably physical), and a (thin) **three-ring binder**. You will complete your journal entries on a three-holed paper, and after I check you off, you'll file the required pages into your binder.
 
 #### Homeworks
 
