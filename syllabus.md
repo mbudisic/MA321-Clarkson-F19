@@ -66,8 +66,10 @@ grade and a report to the Dean of Students._
 
 ## Additional Resources
 
-#### Other useful books
+1. Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. [Elementary Real Analysis](http://classicalrealanalysis.info/Elementary-Real-Analysis.php). ClassicalRealAnalysis.com, 2008. -- This book was used for MA321 by other instructors.
+2. Rudin, Walter. Principles of Mathematical Analysis. 3rd edition. New York: McGraw-Hill Education, 1976. -- A time-tested standard textbook on this topic. AKA "Baby Rudin". [Read this review for the fun of it](https://www.maa.org/press/maa-reviews/principles-of-mathematical-analysis)
+3. Tao, Terence. [Analysis I, 3rd ed.](https://www.springer.com/gp/book/9789811017896.) Texts and Readings in Mathematics. Springer Singapore, 2016. -- Textbook written by one of the best-known living mathematicians and analysts Terry Tao
+4. [Terry Tao's blog](https://terrytao.wordpress.com)
 
-1.
 
 {% include_relative abbrevs.md %}
