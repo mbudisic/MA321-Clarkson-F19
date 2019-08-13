@@ -38,7 +38,7 @@ Detailed list of topics can be found in the [Schedule](./schedule.html) section 
 
 **Why the hard-copy push?** I insist on hard-copy textbooks because writing proofs requires intense concentration, free from distractions. If you need to have a laptop or a tablet open to work on proofs, you expose yourself to distractions that sap your concentration. Be better than that.
 
-In addition to the textbook, I ask you to read the first volume of [Hiroshi Yuki's novel Math Girls](http://bentobooks.com/mathgirls/). The plot of the novel is thin (love in high school), but the book communicates the passion for and beauty of mathematics as few other accessible works do so. Here's a review from the [AMS Notices](https://www.ams.org/notices/201207/rtx120700956p.pdf) (flagship magazine for the American Mathematical Society) and [MAA Reviews](https://www.maa.org/press/maa-reviews/math-girls).
+In addition to the textbook, I ask you to read the first volume of [Hiroshi Yuki's novel Math Girls](http://bentobooks.com/mathgirls/). The plot of the novel is thin (love in high school), but the book communicates the passion for and beauty of mathematics as few other accessible works do so. Here's a review from the [AMS Notices](https://www.ams.org/notices/201207/rtx120700956p.pdf) (flagship magazine for the American Mathematical Society) and [MAA Reviews](https://www.maa.org/press/maa-reviews/math-girls). Feel free to borrow or buy this book -- we won't refer to it regularly, but it's good for priming the math pump.
 
 
 ## Prerequisites
