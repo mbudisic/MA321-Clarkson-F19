@@ -14,6 +14,10 @@ I will regularly check if you're maintaining your journal. At beginning of each 
 ## Week 1
 ### Mon  -- Sep 2	-- Math Girls
 ### Wed  -- Sep 4	-- 0.3 Basic set theory
+
+Additional reading: BTT, Appendix A.
+
+
 ### Fri  -- Sep 6	-- 0.3 Basic set theory
 
 ## Week 2
