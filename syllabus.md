@@ -7,7 +7,7 @@ description: 'Advanced Calculus I in Fall 2019 as taught by Marko Budišić'
 1. TOC
 {: toc style="font-size:10pt; column-count:3; column-width: 20px; column-gap: 20px;" }
 
-## Summary of the class
+## Learning objectives
 
 This class serves a dual purpose:
 
@@ -83,22 +83,25 @@ The main purpose of the homework is to expose you to the problems and the level 
 
 ## Assessment
 
-The grade will be based on your score on **two midterms and on the final exam**. The exams will have questions labeled according to the level of difficulty (C-level, B-level, A-level); completing higher-level problems will award you the appropriate grade.
+The grade will be based on your score on **two midterms and on the final exam**.
 
 You will get feedback on homeworks, but **feedback on homeworks will not factor into your final grade**. You will **have to submit all homeworks on time**, however, to get D or higher in this course. (Necessary, but not sufficient condition.)
+
+The exams will have questions labeled according to the level of difficulty (C-level, B-level, A-level); completing higher-level problems will award you the appropriate grade.
 
 I may offer portions of midterm for re-do, in order to boost your grade. Only students who have submitted all homeworks up to that point, and all journal entries (minus the 3 freebies) will be eligible to do so.
 
 - For a journal to count as "turned-in", it has to contain a summary of reading (a paragraph), and answers to all [Journal](./journal.html) questions.
 - For a homework to count as "turned-in", all problems have to be attempted, except possibly the optional ones. Homeworks are scored for completion, not accuracy, although it's expected you will do your best on each.
 - Problems will be commented on, and scored as "**E**xceptional", "**C**orrect", "**P**artial", or "**I**ncorrect". That's what the letters in the table below stand for,e.g., "50%+ P+" stands for "more than 50% problems on midterm and final partially correct or better".
+- Students scoring a perfect score on all midterms, turning in all homeworks, and all except 3 journal entries are exempt from the final exam with grade A. Grade A+ cannot be earned without completing the final.
 
-| Grade | Journals | Homeworks | C problems | B problems | A problems |
-| --- | --- | --- | --- | --- | --- |
-| A | All except 3 | all | 90%+ C+ | 90%+ C+ | 75% P+, 50%+ C+  |
-| B | All except 3 | 9+ | 90%+ C+ | 50%+ C+ | 50%+ P+, 25% C+ |
-| C | All except 3 | 7+ | 50%+ C+ | 50%+ P+ | 1 or more C+ |
-| D | All except 3 | 5+ | 50%+ P+ | none | none |
+| Grade | Journals | Homeworks | C problems | B problems | A problems | Grade Explanation |
+| --- | --- | --- | --- | --- | --- | --- |
+| A | All except 3 | all | 90%+ C+ | 90%+ C+ | 75% P+, 50%+ C+  | Mastery of the material |
+| B | All except 3 | 9+ | 90%+ C+ | 50%+ C+ | 50%+ P+, 25% C+ | Competent command of the material | 
+| C | All except 3 | 7+ | 50%+ C+ | 50%+ P+ | 1 or more C+ | Basic proof-writing skill |
+| D | All except 3 | 5+ | 50%+ P+ | none | none | Basic vocabulary |
 
 Exceptional grades will be awarded rarely, for particularly innovative, clear, well-rounded answers. They are the route to intermediate grades, e.g., A+, B+, etc.
 Intermediate grades will also be assigned for positive/negative trends. (Student who aces the first midterm, does OK on the second, and bombs the final, yet still makes the cut for B, may end up with B-. The reverse is true for the opposite trajectories.)
