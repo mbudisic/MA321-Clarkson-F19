@@ -83,7 +83,7 @@ The main purpose of the homework is to expose you to the problems and the level 
 
 ## Assessment
 
-The grade will be based on your score on **two midterms and on the final exam**.
+The grade will be based on your score on **three non-cumulative in-class midterms and a cumulative final exam**. For dates, see [Schedule](./schedule.html).
 
 You will get feedback on homeworks, but **feedback on homeworks will not factor into your final grade**. You will **have to submit all homeworks on time**, however, to get D or higher in this course. (Necessary, but not sufficient condition.)
 
