@@ -49,19 +49,29 @@ If you are looking for completing a math-minor, this class is likely not the bes
 
 ## Course work
 
-#### Preparation for classes
+#### Before class: reading and journaling
 
-Students are expected to read the textbook **ahead** of the lecture. The lectures will assume that students have read at least once through the listed chapters. The preparation will be tested through [Journals](./journal.html) and index-card quizzes.
+You are expected to read the textbook **ahead** of the lecture. The lectures will assume that students have read at least once through the listed chapters. 
 
-I suggest that you **take some amount of time during the weekend** and complete the readings and journal questions. That way you won't risk running out of time during the week, and you'll need only a quick skim before the class to get up to speed.
+Each day of the class you will turn in page(s) for a journal on a **three-hole-punched paper** consisting of:
+    - summary of your reading
+    - answers to the [Journal](./journal.html) questions
+    - comments, ideas, tangents, etc. prompted by readings
+You can omit a journal page only 3 times during the semester. Journal pages are due at the beginning of the class, with no late pages accepted (except at my discretion due to exceptional circumstances).
 
-#### Participation and Note-taking
+When I return your journal pages, store them in a three-ring binder and use them to study for the exams.
+
+I suggest that you **take some amount of time during the weekend** and complete the readings and journal questions for more than one class. That way you won't risk running out of time during the week, and you'll need only a quick skim before the class to get up to speed.
+
+#### During class: Participation and Note-taking
 
 During class, you should expect to work actively. I will assume you have completed the assigned readings for the class and I will strive not to go over every detail from the textbook. Rather, we'll work on problems, discuss questions, etc.
 
-**Do not be surprised if you have to work in pairs, on the blackboard, etc. ** Despite its reputation, mathematics is a collaborative discipline. Most of your time thinking about this class will likely be spent alone. We'll use the class time to work together.
+**Do not be surprised if you have to work in pairs, on the blackboard, etc** Despite its reputation, mathematics is a collaborative discipline. Most of your time thinking about this class will likely be spent alone. We'll use the class time to work together.
 
-You will need a notebook (preferrably physical), and a (thin) **three-ring binder**. You will complete your journal entries on a three-holed paper, and after I check you off, you'll file the required pages into your binder.
+You will need a notebook (preferrably physical) in which to take notes during the "lecture" part of the class.
+
+During collaborative work, obviously there is little time to both work *and* copy the material into your notes. So use your cell phone/tablet to take a photo of the work and share it with both partners.
 
 #### Homeworks
 
@@ -77,7 +87,21 @@ The grade will be based on your score on **two midterms and on the final exam**.
 
 You will get feedback on homeworks, but **feedback on homeworks will not factor into your final grade**. You will **have to submit all homeworks on time**, however, to get D or higher in this course. (Necessary, but not sufficient condition.)
 
-I may offer portions of midterm for re-do, in order to boost your grade. Only students who have submitted all homeworks, and 90% of journal entries will be eligible to do so.
+I may offer portions of midterm for re-do, in order to boost your grade. Only students who have submitted all homeworks up to that point, and all journal entries (minus the 3 freebies) will be eligible to do so.
+
+- For a journal to count as "turned-in", it has to contain a summary of reading (a paragraph), and answers to all [Journal](./journal.html) questions.
+- For a homework to count as "turned-in", all problems have to be attempted, except possibly the optional ones. Homeworks are scored for completion, not accuracy, although it's expected you will do your best on each.
+- Problems will be commented on, and scored as "**E**xceptional", "**C**orrect", "**P**artial", or "**I**ncorrect". That's what the letters in the table below stand for,e.g., "50%+ P+" stands for "more than 50% problems on midterm and final partially correct or better".
+
+| Grade | Journals | Homeworks | C problems | B problems | A problems |
+| --- | --- | --- | --- | --- | --- |
+| A | All except 3 | all | 90%+ C+ | 90%+ C+ | 75% P+, 50%+ C+  |
+| B | All except 3 | 9+ | 90%+ C+ | 50%+ C+ | 50%+ P+, 25% C+ |
+| C | All except 3 | 7+ | 50%+ C+ | 50%+ P+ | 1 or more C+ |
+| D | All except 3 | 5+ | 50%+ P+ | none | none |
+
+Exceptional grades will be awarded rarely, for particularly innovative, clear, well-rounded answers. They are the route to intermediate grades, e.g., A+, B+, etc.
+Intermediate grades will also be assigned for positive/negative trends. (Student who aces the first midterm, does OK on the second, and bombs the final, yet still makes the cut for B, may end up with B-. The reverse is true for the opposite trajectories.)
 
 ## Accommodations
 
