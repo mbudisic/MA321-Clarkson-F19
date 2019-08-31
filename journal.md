@@ -15,7 +15,7 @@ I will regularly check if you're maintaining your journal. At beginning of each 
 ### Mon  -- Sep 2	-- Math Girls, Syllabus, Motivation articles
 
 - Read [the syllabus](./syllabus.html)
-- Read [the article on Navier--Stokes equations](https://theconversation.com/millennium-prize-the-navier-stokes-existence-and-uniqueness-problem-4244)
+- Read [the article on Navier--Stokes equations](https://theconversation.com/millennium-prize-the-navier-stokes-existence-and-uniqueness-problem-4244). Optionally, you can [read this one as well](https://www.quantamagazine.org/mathematicians-find-wrinkle-in-famed-fluid-equations-20171221/).
 - Explain: what does "existence of solutions" refer to?
 - What are "harmonic numbers"and what is the "harmonic series"?
 - What does "real analysis" mean?
