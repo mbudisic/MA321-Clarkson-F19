@@ -12,7 +12,13 @@ For every topic below, I will choose several questions, prompts, definitions, et
 I will regularly check if you're maintaining your journal. At beginning of each class meeting, you will submit answers to the prompts on one (preferrably) sheet of three-hole punched paper. After I check that you completed your work, I'll return the sheet to you. Then you will put the sheet into your 3-hole binder to serve as a reference for the rest of the semester.
 
 ## Week 1
-### Mon  -- Sep 2	-- Math Girls
+### Mon  -- Sep 2	-- Math Girls, Syllabus, Motivation articles
+
+- Read [the article on Navier--Stokes equations](https://theconversation.com/millennium-prize-the-navier-stokes-existence-and-uniqueness-problem-4244)
+- Explain: what does "existence of solutions" refer to?
+- What are "harmonic numbers"and what is the "harmonic series"?
+- What does "real analysis" mean?
+
 ### Wed  -- Sep 4	-- Lebl 0.3 - Basic set theory + TBB, Appendix A.
 
 - What is the "set-building notation"? Give an example that uses it that's not given in the reading for the class.
