@@ -26,15 +26,15 @@ I will regularly check if you're maintaining your journal. At beginning of each 
 
 ### Fri  -- Sep 6	-- Lebl 0.3 Functions and cardinality + TBB, Appendix A
 
-- The textbook statesthat a definite integral $\int_0^1 g(x) dx$ can be interpreted as a function, having (some other) functions as inputs, and scalars as outputs. What is the domain of this "definite integral" function, and what is its range?
+- The textbook statesthat a definite integral $$\int_0^1 g(x) dx$$ can be interpreted as a function, having (some other) functions as inputs, and scalars as outputs. What is the domain of this "definite integral" function, and what is its range?
 - Books sometimes mention the term "codomain". Look up the definition (say in Wikipedia or in readings) and explain how this is different than "range".
-- For function $f(x) = x^2$, where $x\in\mathbb{R}$, give:
+- For function $$f(x) = x^2$$, where $$x\in\mathbb{R}$$, give:
   - domain
   - range
-  - direct images of  $I_1=(-\infty,0)$, $I_2=(-\infty,\infty)$,
-  - inverse image (or preimage) of $S_1 = \{0\}$, $S_2 = \{1\}$, $S_3 = \{-1\}$
+  - direct images of  $$I_1=(-\infty,0)$$, $$I_2=(-\infty,\infty)$$,
+  - inverse image (or preimage) of $$S_1 = \{0\}$$, $$S_2 = \{1\}$$, $$S_3 = \{-1\}$$
 - After reading through Example 0.3.25, explain why the following calculation is unambiguous: 
-$$\frac{1}{2} + \frac{2}{3}= \frac{3}{6} + \frac{4}{6} = \frac{7}{6}$.
+$$\frac{1}{2} + \frac{2}{3}= \frac{3}{6} + \frac{4}{6} = \frac{7}{6}$$.
 - What is the difference between a "proper subset" and just "subset"?
 - Give an example of a countably-infinite set, and an uncountably-infinite sets. Come up with examples that were not given in the book.
 
