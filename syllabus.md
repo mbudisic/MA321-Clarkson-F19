@@ -54,9 +54,11 @@ If you are looking for completing a math-minor, this class is likely not the bes
 You are expected to read the textbook **ahead** of the lecture. The lectures will assume that students have read at least once through the listed chapters. 
 
 Each day of the class you will turn in page(s) for a journal on a **three-hole-punched paper** consisting of:
-    - summary of your reading
-    - answers to the [Journal](./journal.html) questions
-    - comments, ideas, tangents, etc. prompted by readings
+
+  - summary of your reading
+  - answers to the [Journal](./journal.html) questions
+  - comments, ideas, tangents, etc. prompted by readings
+
 You can omit a journal page only 3 times during the semester. Journal pages are due at the beginning of the class, with no late pages accepted (except at my discretion due to exceptional circumstances).
 
 When I return your journal pages, store them in a three-ring binder and use them to study for the exams.
