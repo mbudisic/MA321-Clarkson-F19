@@ -23,7 +23,7 @@ I will regularly check if you're maintaining your journal. At beginning of each 
 ### Wed  -- Sep 4	-- Lebl 0.3 - Basic set theory + TBB, Appendix A.
 
 - What is the "set-building notation"? Give an example that uses it that's not given in the reading for the class.
-- What proving technique (direct, contraposition, contradiction,...) is used to construct the proof for Theorem 0.36. Review proving techniques from your MA211 notes, TBB readings, or supplementary material for this course, e.g., *How to Solve It*, *How to Prove It*.
+- What proving technique (direct, contraposition, contradiction,...) is used to construct the proof for Theorem 0.36. Review proving techniques from your MA211 notes, TBB readings, or [supplementary material for this course](https://mbudisic.github.io/MA321-Clarkson-F19/syllabus.html#additional-resources), e.g., *How to Solve It*, *How to Prove It*.
 - Sketch a Venn diagram that demonstrates two DeMorgan rules.
 - Given the statement "Every prime number larger than 2 is odd", write its:
   - contrapositive statement
