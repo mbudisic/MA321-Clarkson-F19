@@ -11,6 +11,11 @@ For every topic below, I will choose several questions, prompts, definitions, et
 
 I will regularly check if you're maintaining your journal. At beginning of each class meeting, you will submit answers to the prompts on one (preferrably) sheet of three-hole punched paper. After I check that you completed your work, I'll return the sheet to you. Then you will put the sheet into your 3-hole binder to serve as a reference for the rest of the semester.
 
+Journal entries should contain:
+- summary of the reading
+- answers to questions
+- any musings/thoughts/questions about the material read
+
 ## Week 1
 ### Mon  -- Sep 2	-- Math Girls, Syllabus, Motivation articles
 
