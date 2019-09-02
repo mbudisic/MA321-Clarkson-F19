@@ -7,6 +7,15 @@ description: 'Advanced Calculus I in Fall 2019 as taught by Marko Budišić'
 1. TOC
 {: toc style="font-size:10pt; column-count:3; column-width: 20px; column-gap: 20px;" }
 
+## Instructor
+
+Marko Budišić
+
+ - Office: SC391
+ - Walk-in hours: TBA
+ - Contact: marko@clarkson.edu (put "MA321" in subject line somewhere) or via Moodle
+ - Website: http://people.clarkson.edu/~mbudisic
+
 ## Learning objectives
 
 This class serves a dual purpose:
@@ -107,7 +116,7 @@ I may offer portions of midterm for re-do, in order to boost your grade. Only st
 | C | All except 3 | 7+ | 50%+ M+ | 50%+ P+ | 1 or more C+ | Basic proof-writing skill |
 | D | All except 3 | 5+ | 50%+ P+ | none | none | Basic vocabulary |
 
-Exceptional grades will be awarded rarely, for particularly innovative, clear, well-rounded answers. They are the route to intermediate grades, e.g., A+, B+, etc.
+Grade "Exceptional" will be awarded rarely, for particularly innovative, clear, well-rounded answers. They are the route to intermediate grades, e.g., A+, B+, etc.
 Intermediate grades will also be assigned for positive/negative trends. (Student who aces the first midterm, does OK on the second, and bombs the final, yet still makes the cut for B, may end up with B-. The reverse is true for the opposite trajectories.)
 
 ## Thinking about math
