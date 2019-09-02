@@ -141,9 +141,11 @@ grade and a report to the Dean of Students._
 ## Additional Resources
 
 1. Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. [Elementary Real Analysis](http://classicalrealanalysis.info/Elementary-Real-Analysis.php). ClassicalRealAnalysis.com, 2008. -- This book was used for MA321 by other instructors.
-2. Rudin, Walter. Principles of Mathematical Analysis. 3rd edition. New York: McGraw-Hill Education, 1976. -- A time-tested standard textbook on this topic. AKA "Baby Rudin". [Read this review for the fun of it](https://www.maa.org/press/maa-reviews/principles-of-mathematical-analysis)
-3. Tao, Terence. [Analysis I, 3rd ed.](https://www.springer.com/gp/book/9789811017896.) Texts and Readings in Mathematics. Springer Singapore, 2016. -- Textbook written by one of the best-known living mathematicians and analysts Terry Tao
-4. [Terry Tao's blog](https://terrytao.wordpress.com)
+1. Rudin, Walter. Principles of Mathematical Analysis. 3rd edition. New York: McGraw-Hill Education, 1976. -- A time-tested standard textbook on this topic. AKA "Baby Rudin". [Read this review for the fun of it](https://www.maa.org/press/maa-reviews/principles-of-mathematical-analysis)
+1. Polya, G. [How to Solve It](https://www.goodreads.com/book/show/192221.How_to_Solve_It). Princeton University Press, Princeton, NJ, 2014. -- **A classic guide to proof-writing strategies**
+1. Velleman, Daniel J. [How to Prove It](https://www.goodreads.com/work/best_book/3322644-how-to-prove-it-a-structured-approach-2nd-ed). 2nd ed. Cambridge University Press, Cambridge, 2006. -- **A structured approach to proof writing**
+1. Tao, Terence. [Analysis I, 3rd ed.](https://www.springer.com/gp/book/9789811017896.) Texts and Readings in Mathematics. Springer Singapore, 2016. -- Textbook written by one of the best-known living mathematicians and analysts Terry Tao
+1. [Terry Tao's blog](https://terrytao.wordpress.com)
 
 
 {% include_relative abbrevs.md %}
