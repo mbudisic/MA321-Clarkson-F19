@@ -63,6 +63,8 @@ When I return your journal pages, store them in a three-ring binder and use them
 
 I suggest that you **take some amount of time during the weekend** and complete the readings and journal questions for more than one class. That way you won't risk running out of time during the week, and you'll need only a quick skim before the class to get up to speed.
 
+**Index Cards**: While math is rarely about memorizing, unless you know definitions, you cannot start doing anything before you look it up in a book. I suggest you keep a stack of index cards and write out important definitions as you encounter them, and use the stack to keep your memory fresh.
+
 #### During class: Participation and Note-taking
 
 During class, you should expect to work actively. I will assume you have completed the assigned readings for the class and I will strive not to go over every detail from the textbook. Rather, we'll work on problems, discuss questions, etc.
@@ -73,7 +75,7 @@ You will need a notebook (preferrably physical) in which to take notes during th
 
 During collaborative work, obviously there is little time to both work *and* copy the material into your notes. So use your cell phone/tablet to take a photo of the work and share it with both partners.
 
-#### Homeworks
+#### After Class: Homeworks
 
 There will be 10 homeworks during the semester. Students are expected to work together to solve the problems, but then each of the student has to put together their own individual report that they will submit. There will be several mandatory problems on each homework, and a few optional ones. Students aiming for high-Bs and As should definitely attempt to complete optional problems every time.
 
@@ -105,6 +107,22 @@ I may offer portions of midterm for re-do, in order to boost your grade. Only st
 
 Exceptional grades will be awarded rarely, for particularly innovative, clear, well-rounded answers. They are the route to intermediate grades, e.g., A+, B+, etc.
 Intermediate grades will also be assigned for positive/negative trends. (Student who aces the first midterm, does OK on the second, and bombs the final, yet still makes the cut for B, may end up with B-. The reverse is true for the opposite trajectories.)
+
+## Thinking about math
+
+| Instead of | Try thinking |
+| --- | --- |
+| I'm not good at this | What am I missing? |
+| I give up | I'll use some of the strategies I've learned. |
+|This is too hard | This may take some time and effort | 
+|I can't make this any better | I can always improve so I'll keep trying | 
+| I just can't do math. | I'm going to train my brain. |
+| I made a mistake. | Mistakes help me learn. |
+| She's so smart. I will never be that smart. | Let me figure out how she does it so I can try.| 
+| It's good enough. | Is this my best work?| 
+| Plan A didn't work. | Good thing the alphabet has more letters in it. |
+
+(From: Reinholz (2018) https://doi.org/10.1080/10511970.2017.1394944 )
 
 ## Accommodations
 
