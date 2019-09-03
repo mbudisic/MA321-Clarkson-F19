@@ -11,20 +11,20 @@ description: ''
 
 ## 1.2 Wednesday
 
-## Problem 1
+### Problem 1
 
 One
 
-## Problem 2
+### Problem 2
 
 Two
 
 
 ## 1.3 Friday
-## Problem 1
+### Problem 1
 
 One
 
-## Problem 2
+### Problem 2
 
 Two
