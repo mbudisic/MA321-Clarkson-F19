@@ -64,7 +64,7 @@ $$\frac{1}{2} + \frac{2}{3}= \frac{3}{6} + \frac{4}{6} = \frac{7}{6}$$.
 - What is meant by "(ordered) set A is dense in set B"? Is (a) $$\mathbb{R}$$ dense in $$\mathbb{R}$$, (b) (a) $$\mathbb{N}$$ dense in $$\mathbb{N}$$, (a) $$\mathbb{Q}$$ dense in $$\mathbb{R}$$?
 - Explain "Archimedean property" in words.
 - Explain the difference between *infimum* and *minimum* of a set. Give an example of a set for which only one (infimum or minimum) exist.
-- Find the part of the book that says that if $$\forall x \in A, \forall y \in B$$ it holds $$x < y$$ implies only $$\sup A \leq \inf B$ and **not** a strict inequality. Give an example of this that is *not* already in the book.
+- Find the part of the book that says that if $$\forall x \in A, \forall y \in B$$ it holds $$x < y$$ implies only $$\sup A \leq \inf B$$ and **not** a strict inequality. Give an example of this that is *not* already in the book.
 
 ### Fri  -- Sep 13	-- 1.3 Absolute value and boundedness
 
