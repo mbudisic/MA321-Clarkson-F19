@@ -53,6 +53,16 @@ $$\frac{1}{2} + \frac{2}{3}= \frac{3}{6} + \frac{4}{6} = \frac{7}{6}$$.
 
 ## Week 2
 ### Mon  -- Sep 9	-- 1.1 Basic properties of real numbers
-### Wed  -- Sep 11	-- 1.2. Set of real numbers
+- Example 1.2.3. (from next section) shows that $$\sqrt{2} \in \mathbb{R}$ and that it's a unique number. Do you know a simpler proof that $$\sqrt{2} \not \in \mathbb{Q}$$? If you do, write it out.
+- Notice how much of this section is about inequalities. (Just notice and ponder what this means for the rest of this class.)
+- Example 1.1.10 states that $$\mathbb{C}$ can be ordered, and that it's also a field. But it's not an *ordered field*. Explain the technical/definitional reason for this.
+
+### Wed  -- Sep 11	-- 1.2. Set of real numbers (
+- In the proof of Prop. 1.2.2 there is a "why?" moment. Answer "why".
+- What is meant by "(ordered) set A is dense in set B"? Is (a) $$\mathbb{R}$$ dense in $$\mathbb{R}$$, (b) (a) $$\mathbb{N}$$ dense in $$\mathbb{N}$$, (a) $$\mathbb{Q}$$ dense in $$\mathbb{R}$$?
+- Explain "Archimedean property" in words.
+- Explain the difference between *infimum* and *minimum* of a set. Give an example of a set for which only one (infimum or minimum) exist.
+- Find the part of the book that says that if $$\forall x \in A, \forall y \in B$$ it holds $$x < y$$ implies only $$\sup A \leq \inf B$ and **not** a strict inequality. Give an example of this that is *not* already in the book.
+
 ### Fri  -- Sep 13	-- 1.3 Absolute value and boundedness
 
