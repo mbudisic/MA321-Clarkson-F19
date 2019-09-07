@@ -63,15 +63,23 @@ $$\frac{1}{2} + \frac{2}{3}= \frac{3}{6} + \frac{4}{6} = \frac{7}{6}$$.
 - Notice how much of this section is about inequalities. (Just notice and ponder what this means for the rest of this class.)
 - Example 1.1.10 states that $$\mathbb{C}$$ can be ordered, and that it's also a field. But it's not an *ordered field*. Explain the technical/definitional reason for this (that is: what makes a field that is also *ordered set* into an *ordered field*).
 
-### Wed  -- Sep 11	-- 1.2. Set of real numbers 
+### Wed  -- Sep 11	-- 1.2. Set of real numbers - Density
 
 - In the proof of Prop. 1.2.2 there is a "why?" moment. Answer "why".
 - What is meant by "(ordered) set A is dense in set B"? Is (a) $$\mathbb{R}$$ dense in $$\mathbb{R}$$, (b) (a) $$\mathbb{N}$$ dense in $$\mathbb{N}$$, (a) $$\mathbb{Q}$$ dense in $$\mathbb{R}$$?
 - Explain "Archimedean property" in words.
+
+
+### Wed  -- Sep 11	-- 1.2. Set of real numbers - Suprema, infima, inequalities
+
 - Explain the difference between *infimum* and *minimum* of a set. Give an example of a set for which only one (infimum or minimum) exist.
 - Find the part of the book that says that if $$\forall x \in A, \forall y \in B$$ it holds $$x < y$$ implies only $$\sup A \leq \inf B$$ and **not** a strict inequality. Give an example of this that is *not* already in the book.
+- Attempt to prove AM-GM (Arithmetic Mean-Geometric Mean) inequality.
 
-### Fri  -- Sep 13	-- 1.3 Absolute value and boundedness
+## Week 3
+
+
+### Mon  -- Sep 16	-- 1.3 Absolute value and boundedness
 
 - Calculate $$\vert 10 \vert$$ and $$\vert -12 \vert$$ by using the definition of absolute value.
 - Use the triangle inequality to provide an upper bound on $$\vert x^2 - 3x + 4 \vert$$ on $$-2 \leq x \leq 6$$ not using any calculators/computers.
