@@ -52,11 +52,16 @@ $$\frac{1}{2} + \frac{2}{3}= \frac{3}{6} + \frac{4}{6} = \frac{7}{6}$$.
 
 
 ## Week 2
-### Mon  -- Sep 9	-- 1.1 Basic properties of real numbers
+### Mon  -- Sep 9	-- 1.1 Basic properties of real numbers -- Order, supremum, infimum
 
 - Example 1.2.3. (from next section) shows that $$\sqrt{2} \in \mathbb{R}$$ and that it's a unique number. Do you know a simpler proof that $$\sqrt{2} \not \in \mathbb{Q}$$? If you do, write it out.
+- Write out definitions:
+  - Lower bound
+  - Infimum
+  - Completeness (or least-upper-bound property)
+- Prove that if supremum (or infimum) exist, they are necessarily unique.
 - Notice how much of this section is about inequalities. (Just notice and ponder what this means for the rest of this class.)
-- Example 1.1.10 states that $$\mathbb{C}$$ can be ordered, and that it's also a field. But it's not an *ordered field*. Explain the   technical/definitional reason for this.
+- Example 1.1.10 states that $$\mathbb{C}$$ can be ordered, and that it's also a field. But it's not an *ordered field*. Explain the technical/definitional reason for this (that is: what makes a field that is also *ordered set* into an *ordered field*).
 
 ### Wed  -- Sep 11	-- 1.2. Set of real numbers 
 
