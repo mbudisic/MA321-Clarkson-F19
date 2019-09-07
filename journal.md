@@ -59,7 +59,7 @@ $$\frac{1}{2} + \frac{2}{3}= \frac{3}{6} + \frac{4}{6} = \frac{7}{6}$$.
   - Lower bound
   - Infimum
   - Completeness (or least-upper-bound property)
-- Prove that if supremum (or infimum) exist, they are necessarily unique.
+- Prove that if supremum (or infimum) exist, they are necessarily unique. [If you're a careful reader, you can find it in the text.]
 - Notice how much of this section is about inequalities. (Just notice and ponder what this means for the rest of this class.)
 - Example 1.1.10 states that $$\mathbb{C}$$ can be ordered, and that it's also a field. But it's not an *ordered field*. Explain the technical/definitional reason for this (that is: what makes a field that is also *ordered set* into an *ordered field*).
 
