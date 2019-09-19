@@ -87,3 +87,11 @@ No additional reading or questions. Read through exercises 1.2.9-1.2.17. and per
 - Use the triangle inequality to provide an upper bound on $$\vert x^2 - 3x + 4 \vert$$ on $$-2 \leq x \leq 6$$ not using any calculators/computers.
 - Solve Exercise 1.3.2.
 
+### Fri -- Sep 20 -- Problem work
+
+Today we'll work on some problems from past homeworks/journals/sections to jump-start studying for the Midterm.
+
+Your journal task is to go over (some/most/all - up to you) past problems (homeworks and classwork) and record your first thoughts about what strategy should be pursued for each individual problem (regardless of whether you solved the problem originally or not).
+
+Turn this sheet in at the end of the lecture so you can refer to it during the class.
+
