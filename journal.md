@@ -93,5 +93,4 @@ Today we'll work on some problems from past homeworks/journals/sections to jump-
 
 Your journal task is to go over (some/most/all - up to you) past problems (homeworks and classwork) and record your first thoughts about what strategy should be pursued for each individual problem (regardless of whether you solved the problem originally or not).
 
-Turn this sheet in at the end of the lecture so you can refer to it during the class.
-
+You don't have to turn anything in for this day (the sheet is to help you study during the weekend so do as much or as little as you think you need).
