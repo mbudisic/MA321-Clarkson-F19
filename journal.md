@@ -101,7 +101,7 @@ You don't have to turn anything in for this day (the sheet is to help you study 
 
 For Friday, read up to (and including) 2.1.1 - Monotone sequences.
 
-First, I draw your attention to the footnote on the first page of Chapter 2. I would prefer if we used the notation $$(x_n)$$ for sequences, reserving $$\{ x_n \}$$ for sets. The main difference comes from sets (typically) not having repeating elements (see: https://en.wikipedia.org/wiki/Multiset ), while sequences could definitely have repeated elements.
+First, I draw your attention to the footnote on the first page of Chapter 2. I would prefer if we used the notation $$(x_n)$$ for sequences, reserving $$\{ x_n \}$$ for sets. The main difference comes from sets (typically) not having repeating elements (see: [[https://en.wikipedia.org/wiki/Multiset]] ), while sequences could definitely have repeated elements.
 
 Now for questions:
 ![](./img/math-girls-tidy-proof.png "Tidy Proof"){: style="float: right;margin: 15px;" width="35%"}
@@ -110,5 +110,5 @@ Now for questions:
 - Copy the proof to Prop 2.1.6 as a sequence of two-column line-by-line statement. You should put every new mathematical statement/implication on its own line in the LEFT column, and in the RIGHT column write out why this line follows/where it originates. You'll likely use definition of the limit, triangle inequality, definition of absolute value... 
 - Example 2.1.11 has a "why is this true?" moment. Fill in the details.
 - What's the point of Example 2.1.12.?
-- Notice that showing convergence Ex.2.1.8. starts with a "good" candidate for the limit, while Ex 2.1.11. proves that the sequence is convergent *before* starting to talk about the limit (The limit discussion begins with "We already know..."). Propose how you would structure the proof for convergence of Ex.2.1.8 using Sec 2.1.1. knowledge, without having any candidates for a limit. You may want to visualize the sequence using this Desmos applet: https://www.desmos.com/calculator/kje5fbagfc .
+- Notice that showing convergence Ex.2.1.8. starts with a "good" candidate for the limit, while Ex 2.1.11. proves that the sequence is convergent *before* starting to talk about the limit (The limit discussion begins with "We already know..."). Propose how you would structure the proof for convergence of Ex.2.1.8 using Sec 2.1.1. knowledge, without having any candidates for a limit. You may want to visualize the sequence using this Desmos applet for inspiration: [[https://www.desmos.com/calculator/kje5fbagfc]] .
 
