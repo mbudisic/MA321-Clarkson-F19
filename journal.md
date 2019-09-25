@@ -94,3 +94,19 @@ Today we'll work on some problems from past homeworks/journals/sections to jump-
 Your journal task is to go over (some/most/all - up to you) past problems (homeworks and classwork) and record your first thoughts about what strategy should be pursued for each individual problem (regardless of whether you solved the problem originally or not).
 
 You don't have to turn anything in for this day (the sheet is to help you study during the weekend so do as much or as little as you think you need).
+
+## Week 3
+
+### Fri -- Sep 27 -- Sequences 
+
+For Friday, read up to (and including) 2.1.1 - Monotone sequences.
+
+First, I draw your attention to the footnote on the first page of Chapter 2. I would prefer if we used the notation $$(x_n)$$ for sequences, reserving $$\{ x_n \}$$ for sets. The main difference comes from sets (typically) not having repeating elements (see: https://en.wikipedia.org/wiki/Multiset ), while sequences could definitely have repeated elements.
+
+Now for questions:
+
+- Write out what $$x^\ast = \lim_n x_n$$ implies (there are two concepts implied by this notation).
+- Copy the proof to Prop 2.1.6 as a sequence of two-column line-by-line statement. You should put every new mathematical statement/implication on its own line in the LEFT column, and in the RIGHT column write out why this line follows/where it originates. You'll likely use definition of the limit, triangle inequality, definition of absolute value... 
+- 
+
+[[img/math-girls-tidy-proof.png]]
