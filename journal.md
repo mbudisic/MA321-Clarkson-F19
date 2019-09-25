@@ -108,5 +108,7 @@ Now for questions:
 
 - Write out what $$x^\ast = \lim_n x_n$$ implies (there are two concepts implied by this notation).
 - Copy the proof to Prop 2.1.6 as a sequence of two-column line-by-line statement. You should put every new mathematical statement/implication on its own line in the LEFT column, and in the RIGHT column write out why this line follows/where it originates. You'll likely use definition of the limit, triangle inequality, definition of absolute value... 
-- 
+- Example 2.1.11 has a "why is this true?" moment. Fill in the details.
+- What's the point of Example 2.1.12.?
+- Notice that showing convergence Ex.2.1.8. starts with a "good" candidate for the limit, while Ex 2.1.11. proves that the sequence is convergent *before* starting to talk about the limit (The limit discussion begins with "We already know..."). Propose how you would structure the proof for convergence of Ex.2.1.8 using Sec 2.1.1. knowledge, without having any candidates for a limit. You may want to visualize the sequence using this Desmos applet: https://www.desmos.com/calculator/kje5fbagfc .
 
