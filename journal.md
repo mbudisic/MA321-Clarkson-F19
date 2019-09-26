@@ -95,7 +95,11 @@ Your journal task is to go over (some/most/all - up to you) past problems (homew
 
 You don't have to turn anything in for this day (the sheet is to help you study during the weekend so do as much or as little as you think you need).
 
-## Week 3
+## Week 4
+
+### Mon -- Sep 23 -- No Journal Assignment (to allow for studying)
+
+### Wed -- Sep 25 -- Midterm (therefore no Journal)
 
 ### Fri -- Sep 27 -- Sequences 
 
