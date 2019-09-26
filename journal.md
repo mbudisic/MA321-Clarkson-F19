@@ -108,7 +108,7 @@ For Friday, read up to (and including) 2.1.1 - Monotone sequences.
 First, I draw your attention to the footnote on the first page of Chapter 2. I would prefer if we used the notation $$(x_n)$$ for sequences, reserving $$\{ x_n \}$$ for sets. The main difference comes from sets (typically) not having repeating elements (see: [Multiset](https://en.wikipedia.org/wiki/Multiset) ), while sequences could definitely have repeated elements.
 
 Now for questions:
-![](./img/math-girls-tidy-proof.png "Tidy Proof"){: style="float: right;margin: 15px;" width="25%"}
+![](./img/math-girls-tidy-proof.png "Tidy Proof"){: style="float: right;margin: 15px;" width="35%"}
 
 - Write out what $$x^\ast = \lim_n x_n$$ implies (there are two concepts implied by this notation).
 - Copy the proof to Prop 2.1.6 as a sequence of two-column line-by-line statement. You should put every new mathematical statement/implication on its own line in the LEFT column, and in the RIGHT column write out why this line follows/where it originates - kind of like *Math Girls* presents proofs (see - I'm using the book!). You'll likely use definition of the limit, triangle inequality, definition of absolute value... 
