@@ -117,3 +117,15 @@ Now for questions:
 - What's the point of Example 2.1.12.?
 - Notice that showing convergence Ex.2.1.8. starts with a "good" candidate for the limit, while Ex 2.1.11. proves that the sequence is convergent *before* starting to talk about the limit (The limit discussion begins with "We already know..."). Propose how you would structure the proof for convergence of Ex.2.1.8 using Sec 2.1.1. knowledge, without having any candidates for a limit. You may want to visualize the sequence using this [Desmos applet for inspiration](https://www.desmos.com/calculator/kje5fbagfc). (You don't need to provide all details of the proof - just that initial idea "I'd prove this first, and then prove that second, and that should be enough."
 
+## Week 4
+
+### Mon -- Sep 23 -- Sequences continued
+
+Read the remainder of Sec 2.1. from the textbook.
+
+- Prove the convergence and compute the limit of either one of the three sequences from Friday's handout (available on Moodle in PDF).
+- Prove (by induction) that $$x_n = \frac{n^2+1}{n^2 + n}$$ has a $K$-tail that is monotonically increasing. (And determine the smallest value of $$K \in \mathbb{N}$$ for which this holds true.
+- Proof to Prop. 2.1.15 starts with "It's clear." Give the details behind this statement.
+- The Proof to Prop. 2.1.15 contains a cycle of implications. This is **extremely** common way of proving that a set of statements are equivalent to each other.
+- Give details for the "It's not hard to prove" part of Proof 2.1.17
+- Copy Prop 2.3.7 that is "forward referred" to in the end of the section.
