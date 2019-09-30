@@ -117,9 +117,9 @@ Now for questions:
 - What's the point of Example 2.1.12.?
 - Notice that showing convergence Ex.2.1.8. starts with a "good" candidate for the limit, while Ex 2.1.11. proves that the sequence is convergent *before* starting to talk about the limit (The limit discussion begins with "We already know..."). Propose how you would structure the proof for convergence of Ex.2.1.8 using Sec 2.1.1. knowledge, without having any candidates for a limit. You may want to visualize the sequence using this [Desmos applet for inspiration](https://www.desmos.com/calculator/kje5fbagfc). (You don't need to provide all details of the proof - just that initial idea "I'd prove this first, and then prove that second, and that should be enough."
 
-## Week 4
+## Week 5
 
-### Mon -- Sep 23 -- Sequences continued
+### Mon -- Sep 30 -- Sequences continued
 
 Read the remainder of Sec 2.1. from the textbook.
 
@@ -129,3 +129,20 @@ Read the remainder of Sec 2.1. from the textbook.
 - The Proof to Prop. 2.1.15 contains a cycle of implications. This is **extremely** common way of proving that a set of statements are equivalent to each other.
 - Give details for the "It's not hard to prove" part of Proof 2.1.17
 - Copy Prop 2.3.7 that is "forward referred" to in the end of the section.
+
+### Wed -- Oct 2 -- Facts about sequences
+
+Sections 2.2.1 and 2.2.2
+
+1. What's the common use for the *Squeeze lemma*? Give an example.
+1. What's the common source of errors concerning inequalities and limits? Give an example.
+1. Copy the proof for 2.2.5 (iii) and format is as a "Math Girls"-style proof, where you justify each line.
+1. Use Prop 2.2.5 and induction to show that $$\lim x_n^k = (\lim x_n)^k$$.
+
+### Fri -- Oct 4 -- Facts about sequences
+
+Sections 2.2.3 and 2.2.4 
+
+1. Observe the use of monotone + decreasing to establish convergence of Newton's iteration for $$\sqrt{2}$$ but a completely different way to actually evaluate the limit.
+1. Try to recover the intuition behind choosing the particular sequence $$n/(1+\varepsilon)^n$$ in proof of Example 2.2.14. (otherwise it just pops out of nowhere)
+1. Create a "sequences cheat sheet" -- list of all important properties and propositions that you have learned about sequences. The goal is not to copy *everything* but try to identify the critical information in the entire Sec 2.
