@@ -124,7 +124,7 @@ Now for questions:
 Read the remainder of Sec 2.1. from the textbook.
 
 - Prove the convergence and compute the limit of either one of the three sequences from Friday's handout (available on Moodle in PDF).
-- Prove (by induction) that $$x_n = \frac{n^2+1}{n^2 + n}$$ has a $K$-tail that is monotonically increasing. (And determine the smallest value of $$K \in \mathbb{N}$$ for which this holds true.
+- Prove (by induction) that $$x_n = \frac{n^2+1}{n^2 + n}$$ has a $$K$$-tail that is monotonically increasing. (And determine the smallest value of $$K \in \mathbb{N}$$ for which this holds true.
 - Proof to Prop. 2.1.15 starts with "It's clear." Give the details behind this statement.
 - The Proof to Prop. 2.1.15 contains a cycle of implications. This is **extremely** common way of proving that a set of statements are equivalent to each other.
 - Give details for the "It's not hard to prove" part of Proof 2.1.17
