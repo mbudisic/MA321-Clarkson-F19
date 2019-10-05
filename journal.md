@@ -146,3 +146,18 @@ Sections 2.2.3 and 2.2.4
 1. Observe the use of monotone + decreasing to establish convergence of Newton's iteration for $$\sqrt{2}$$ but a completely different way to actually evaluate the limit.
 1. Try to recover the intuition behind choosing the particular sequence $$n/(1+\varepsilon)^n$$ in proof of Example 2.2.14. (otherwise it just pops out of nowhere)
 1. Create a "sequences cheat sheet" -- list of all important properties and propositions that you have learned about sequences. The goal is not to copy *everything* but try to identify the critical information in Sec 2.1 and 2.2
+
+## Week 6
+
+### Mon -- Oct 7 -- Limit superior/inferior
+
+We studied subsequences of sequences. For bounded sequences, there are particularly *distinguished* subsequences. This section is about how to use their properties to describe properties of the primary (full) sequence.
+
+  1. Write out definitions of $$\limsup$$ and $$\liminf$$
+  1. Make a sketch of your own that illustrates lim inf/lim sup -- basically make a sketch/copy of Figure 2.5, while understanding what each object on that Figure is
+  1. Theorem 2.3.4 is important - answer the "why?" question in its proof.
+  1. Why did the author choose to make the $$a_{n_k}$$ less than $$\varepsilon/2$$ (and not just $$\varepsilon$$). Discuss what would happen if we just proceeded with $$\varepsilon$$... how would the proof end? Would it be correct?
+  1. Copy the sentence and fill the blank:
+
+"$$\limsup$$ and $$\liminf$$ are ...... subsequential limits."
+
