@@ -155,9 +155,17 @@ We studied subsequences of sequences. For bounded sequences, there are particula
 
   1. Write out definitions of $$\limsup$$ and $$\liminf$$
   1. Make a sketch of your own that illustrates lim inf/lim sup -- basically make a sketch/copy of Figure 2.5, while understanding what each object on that Figure is
-  1. Theorem 2.3.4 is important - answer the "why?" question in its proof.
-  1. Why did the author choose to make the $$a_{n_k}$$ less than $$\varepsilon/2$$ (and not just $$\varepsilon$$). Discuss what would happen if we just proceeded with $$\varepsilon$$... how would the proof end? Would it be correct?
+  1. Theorem 2.3.4 is important. Let's name it "Real-line BW":
+    - answer the "why?" question in its proof.
+    - why did the author choose to make the $$a_{n_k}$$ less than $$\varepsilon/2$$ (and not just $$\varepsilon$$). Discuss what would happen if we just proceeded with $$\varepsilon$$... how would the proof end? Would it be correct?
   1. Copy the sentence and fill the blank:
 
 "$$\limsup$$ and $$\liminf$$ are ...... subsequential limits."
 
+### Wed -- Oct 9 -- Bolzano--Weierstrass, Cauchy sequences
+
+  1. Explain why the author states B--W theorem as different than Theorem 2.3.4
+  1. In the context of your previous answer, compare proof of Theorem 2.3.4 with the proof of B--W -- notice that BW proof does not use any numbers external to the sequence, while 2.3.4 uses $$1/(k+1)$$
+  1. How is the statement "$$\lim x_n = \infty$$" different from a statement "$$x_n$$ diverges"?
+  1. What does "being Cauchy" mean intuitively?
+  1. Show that $$n^2/(n^2+1)$$ is a Cauchy sequence.
