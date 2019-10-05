@@ -164,8 +164,26 @@ We studied subsequences of sequences. For bounded sequences, there are particula
 
 ### Wed -- Oct 9 -- Bolzano--Weierstrass, Cauchy sequences
 
+  Bolzano--Weierstrass:
+  
   1. Explain why the author states B--W theorem as different than Theorem 2.3.4
   1. In the context of your previous answer, compare proof of Theorem 2.3.4 with the proof of B--W -- notice that BW proof does not use any numbers external to the sequence, while 2.3.4 uses $$1/(k+1)$$
   1. How is the statement "$$\lim x_n = \infty$$" different from a statement "$$x_n$$ diverges"?
+
+  Cauchy sequences:
+
   1. What does "being Cauchy" mean intuitively?
   1. Show that $$n^2/(n^2+1)$$ is a Cauchy sequence.
+
+### Fri -- Oct 11 -- Cauchy Sequences, Introduction to series
+
+  Cauchy sequences:
+  
+  1. Try to prove (without looking into the book) that "If a sequence is convergent, it is Cauchy" (this is the forward direction of Thm. 2.4.5). Leave your personal proof in the journal (even if you find that it's incorrect when you compare with the book) --- there's no shame here - you're learning!
+  1. Copy statements of Prop. 2.3.5 and Prop. 2.3.7.
+  1. What does it mean that "Set $$\mathbb{R}$$ is Cauchy complete"?
+
+  Series: 
+
+  1. What are two meanings of notation $$\sum_k x_k$$?
+  1. What's a possible mistake that notation $$\sum_k x_k = x_1 + x_2 + \dots$$ can make in concluding the result $$\sum_{k=1}^\infty (-1)^k$$. (write the sequence of partial sums explicitly to conclude if the series converges)
