@@ -183,7 +183,9 @@ We studied subsequences of sequences. For bounded sequences, there are particula
   1. Copy statements of Prop. 2.3.5 and Prop. 2.3.7.
   1. What does it mean that "Set $$\mathbb{R}$$ is Cauchy complete"?
 
-  Series: 
+  Series (2.5.1: 
 
   1. What are two meanings of notation $$\sum_k x_k$$?
   1. What's a possible mistake that notation $$\sum_k x_k = x_1 + x_2 + \dots$$ can make in concluding the result $$\sum_{k=1}^\infty (-1)^k$$. (write the sequence of partial sums explicitly to conclude if the series converges)
+  1. What is the *geometric series*? State formula for its partial sums. Would you know how to prove the formula is true?
+  
