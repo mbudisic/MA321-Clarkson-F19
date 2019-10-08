@@ -12,7 +12,7 @@ description: 'Advanced Calculus I in Fall 2019 as taught by Marko Budišić'
 Marko Budišić
 
  - Office: SC391
- - Walk-in hours: TBA
+ - Walk-in office hours: Mo 12.30-2p, We 9-10.30p, Th 1-2.30p
  - Contact: marko@clarkson.edu (put "MA321" in subject line somewhere) or via Moodle
  - Website: http://people.clarkson.edu/~mbudisic
 
