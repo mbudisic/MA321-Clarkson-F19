@@ -189,3 +189,15 @@ We studied subsequences of sequences. For bounded sequences, there are particula
   1. What's a possible mistake that notation $$\sum_k x_k = x_1 + x_2 + \dots$$ can make in concluding the result $$\sum_{k=1}^\infty (-1)^k$$. (write the sequence of partial sums explicitly to conclude if the series converges)
   1. What is the *geometric series*? State formula for its partial sums. Would you know how to prove the formula is true?
   
+
+## Week 7
+
+### Wed -- Oct 16 -- Series (Section 2.5 in Lebl)
+
+  1. Re-read Chapter 8 in Math Girls. Perhaps now that you're knee-deep in sequences and series, you'll find little gems in that chapter. (If you do, report them in your journal.)
+  1. If $$\sum x_n$$ converges, what does it say about sequence $$x_n$$?
+  1. If $$\sum \vert x_n \vert$$ converges, what all good properties does $$\sum x_n$$ enjoy (there's more than one)?
+  1. Is $$(\sum_n x_n) \times (\sum_n y_n) = \sum_n (x_n y_n)$$?
+  1. What is the Riemann zeta function?
+  1. Think about how comparison test and $$p$$-test may be employed together.
+  1. State the ratio test.
