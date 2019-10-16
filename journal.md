@@ -209,3 +209,4 @@ If you have completed the journal for Wed, there is nothing new to submit. To pr
   - work on the Homework
   - review convergence tests for series
 
+## End
