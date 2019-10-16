@@ -201,3 +201,11 @@ We studied subsequences of sequences. For bounded sequences, there are particula
   1. What is the Riemann zeta function?
   1. Think about how comparison test and $$p$$-test may be employed together.
   1. State the ratio test.
+  
+### Fri -- Oct 18 -- Series (Section 2.5 in Lebl)
+
+If you have completed the journal for Wed, there is nothing new to submit. To prepare for class:
+
+  - work on the Homework
+  - review convergence tests for series
+
