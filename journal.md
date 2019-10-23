@@ -208,5 +208,41 @@ If you have completed the journal for Wed, there is nothing new to submit. To pr
 
   - work on the Homework
   - review convergence tests for series
+  
+  
+## Week 8
+
+### Mon -- Oct 21 -- No Journal (to allow for studying)
+
+### Wed -- Oct 23 -- Midterm 2 -- No Journal
+
+### Fri -- Oct 25 -- Sec. 3.1.1-3.1.3 Limits and sequential limits
+
+  - Define *cluster point of set*. Does the set have to include all of its cluster points? 
+  - Can you think of an example of a bounded set on the real line with infinite (countably or not) number of points that has no cluster points? How does this question relate to Bolzano--Weierstrass theorem (Thm 2.3.8)?
+  - Def. 3.1.3. is the (in)famous "epsilon-delta" definition of the limit of a function. Copy it into your journal.
+  - Lemma 3.1.7 is the (in)famous "sequential" definition of the limit of a function. Copy it into your journal. Notice that "if and only if" statements can be used interchangeably. In other words: both "epsilon-delta" and "sequential" are good definition of limits for our purposes.
+
+## Week 9
+
+### Mon -- Oct 28 -- Sec 3.1.3 and 3.1.4 Sequential limits and restrictions
+
+  - Sketch a proof of Ex. 3.1.5 using only sequential definition of the limit.
+  - Explain the difference in the "converse" direction of Lemma 3.1.7 and statement-to-prove in Exercise 3.1.11
+  - Corollaries 3.1.9-3.1.13 correspond to some theorems/lemmas/propositions from the section on sequences. Make a correspondence table of the sort:
+  
+  | Cor. in Sec. 3 | Prop/thm in Sec. 2 | Short plain-English explanation |
+  | ---- | ---- | ---- |
+  | ... | ... | ... |
+  
+  - define "restriction" of the function
+  - sketch the sets/intersections featured in the Prop. 3.1.15
+  - what is the relationship between one-sided limits and the "full" limit?
+  
+  
+  
+### Wed -- Oct 30 -- Sec 3.1.3 and 3.1.4 Sequential limits and restrictions
+
+### Fri -- Nov 1 -- Sec 3.1.3 and 3.1.4 Sequential limits and restrictions
 
 ## End
