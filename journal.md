@@ -239,14 +239,15 @@ If you have completed the journal for Wed, there is nothing new to submit. To pr
   - sketch the sets/intersections featured in the Prop. 3.1.15
   - what is the relationship between one-sided limits and the "full" limit?
    
-### Wed -- Oct 30 -- Sec 3.1.3 and 3.1.4 Sequential limits and restrictions
+### Wed -- Oct 30 -- Sec 3.2 Continuity
 
   - No journal questions... by mistake.
 
-### Fri -- Nov 1 -- Sec 3.1.3 and 3.1.4 Sequential limits and restrictions
+### Fri -- Nov 1 -- Sec 3.2 Compositions of continuous functions; discontinuities
 
-  - Prove that $$f:(0,\infty) \to \mathbb{R}$$, $$f(x) = 1/x$$ is continuous by using definition of continuity (not by sequences).
-  - Prove that function in Ex. 3.2.10, is DIScontinuous by using definition of continuity (not by sequences).
+  - Prove one of the two (both if you appreciate the practice):
+    - that $$f:(0,\infty) \to \mathbb{R}$$, $$f(x) = 1/x$$ is continuous by using definition of continuity (not by sequences).
+    - that function in Ex. 3.2.10, is DIScontinuous by using definition of continuity (not by sequences).
   - Convince yourself that you understand steps in Prop. 3.2.7 proof.
   - Show by an example that converse of Prop. 3.2.7 does not hold, that is, find $$f$$ and $$g$$ such that one of them is discontinuous, but their composition $$f \circ g$$ is continuous.
 
