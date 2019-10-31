@@ -250,5 +250,6 @@ If you have completed the journal for Wed, there is nothing new to submit. To pr
     - that function in Ex. 3.2.10, is DIScontinuous by using definition of continuity (not by sequences).
   - Convince yourself that you understand steps in Prop. 3.2.7 proof.
   - Show by an example that converse of Prop. 3.2.7 does not hold, that is, find $$f$$ and $$g$$ such that one of them is discontinuous, but their composition $$f \circ g$$ is continuous.
+  - What is "Cantor set"? What is "Euclid's Orchard"? You don't have to write about these, but look these concepts up.
 
 ## End
