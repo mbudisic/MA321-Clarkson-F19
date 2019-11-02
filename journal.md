@@ -252,4 +252,15 @@ If you have completed the journal for Wed, there is nothing new to submit. To pr
   - Show by an example that converse of Prop. 3.2.7 does not hold, that is, find $$f$$ and $$g$$ such that one of them is discontinuous, but their composition $$f \circ g$$ is continuous.
   - What is "Cantor set"? What is "Euclid's Orchard"? You don't have to write about these, but look these concepts up.
 
+### Mon -- Nov 4 --- Sec 3.1415 Important problems with tractable solutions
+
+  - Consider the function $\zeta(z) = \sum_{n=1}^{\infty} \frac{1}{n^z}$. Compute all zeros in the complex plane.
+  - Write down the largest number you know
+  - Prove that $\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$ by adding up every term.
+  - Prove the completeness of first order logic
+    - Prove the consistency of first order logic
+  - Explain the difference between Prop 3.2.7 and Prop 3.2.7 (5 pages minimum)
+  - What isn't the limit of a function?
+
+
 ## End
