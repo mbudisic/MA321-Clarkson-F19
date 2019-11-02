@@ -252,4 +252,26 @@ If you have completed the journal for Wed, there is nothing new to submit. To pr
   - Show by an example that converse of Prop. 3.2.7 does not hold, that is, find $$f$$ and $$g$$ such that one of them is discontinuous, but their composition $$f \circ g$$ is continuous.
   - What is "Cantor set"? What is "Euclid's Orchard"? You don't have to write about these, but look these concepts up.
 
+## Week 10
+
+### Mon -- Nov 4 -- Sec 3.3 Min-max and intermediate value
+
+  - Write out the min-max theorem.
+  - Write out the Bolzano--Weierstrass theorem.
+  - Why was B--W needed in proofs of 3.3.1 and 3.3.2? Copy the sentence with blanks filled in: "Continuous functions map ______ sequences to ______ sequences."
+  - Find alternative examples for concepts discussed in Examples 3.3.4-3.3.6
+  - (No need to submit anything here:) Work through the proof of 3.3.7. It's important.
+  - What is the bisection method?
+  - Use Desmos (or other graphing tool) to plot some arbitrary odd-degree and even-degree polynomials $$f(x)$$. What can you say about signs of $$f(x)$$ and $$f(-x)$$ for odd-degree polynomials?
+  
+### Wed -- Nov 6 -- Sec 3.4 Uniform continuity
+
+  - Write out the $$\epsilon-\delta$$ definitions of continuity and of uniform continuity. Comment on the difference.
+  - Form a chain of implications ("if-then") between continuity, Lipshitz continuity, and uniform continuity. Find counterexamples to show that implication arrows are strictly one-directional.
+  
+### Fri -- Nov 8 -- Sec 3.4 Uniform continuity
+
+  - Based on discussions from Nov 1 (Friday), complete the Ex 3.4.13.
+  - Read on Wikipedia or elsewhere about Lipschitz function. What major theorem of differential equations relies on this concept? Explain also what is a "contraction" by using Lipschitz continuity.
+  
 ## End
