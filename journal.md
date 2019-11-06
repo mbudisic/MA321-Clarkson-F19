@@ -264,13 +264,14 @@ If you have completed the journal for Wed, there is nothing new to submit. To pr
   - What is the bisection method?
   - Use Desmos (or other graphing tool) to plot some arbitrary odd-degree and even-degree polynomials $$f(x)$$. What can you say about signs of $$f(x)$$ and $$f(-x)$$ for odd-degree polynomials?
   
-### Wed -- Nov 6 -- Sec 3.4 Uniform continuity
+### Wed -- Nov 6
 
-  - Write out the $$\epsilon-\delta$$ definitions of continuity and of uniform continuity. Comment on the difference.
-  - Form a chain of implications ("if-then") between continuity, Lipshitz continuity, and uniform continuity. Find counterexamples to show that implication arrows are strictly one-directional.
-  
+No extra journal.
+
 ### Fri -- Nov 8 -- Sec 3.4 Uniform continuity
 
+  - Write out the $$\epsilon-\delta$$ definitions of continuity and of uniform continuity. Comment on the difference.
+  - Form a chain of implications ("if-then") between continuity, Lipshitz continuity, and uniform continuity. Find counterexamples to show that implication arrows are strictly one-directional.  
   - Based on discussions from Nov 1 (Friday), complete the Ex 3.4.13.
   - Read on Wikipedia or elsewhere about Lipschitz function. What major theorem of differential equations relies on this concept? Explain also what is a "contraction" by using Lipschitz continuity.
   
