@@ -275,4 +275,26 @@ No extra journal.
   - Based on discussions from Nov 1 (Friday), complete the Ex 3.4.13.
   - Read on Wikipedia or elsewhere about Lipschitz function. What major theorem of differential equations relies on this concept? Explain also what is a "contraction" by using Lipschitz continuity.
   
+## Week 11
+
+### Mon -- Nov 11 -- no extra journal
+
+### Wed -- Nov 13 -- The Derivative
+
+  - We will spend a fairly short time discussing the derivative in theory. We(=you) will spend most of the class proving the different derivative "rules".
+  - What is the "difference quotient"?
+  - How is an "affine" function different from a "linear" function?
+  - In Prop. 4.1.6 proof, the author says "Therefore". What detail is glossed over here, in other words, what statement do we need to show that indeed, the part after "Therefore" follows from the part immediately above it?
+  
+
+### Fri -- Nov 15 -- Critical points; Rolle's Theorem; Mean Value Theorem
+
+  - How can the proof of the Lemma 4.2.2. concerning local minimum/maximum can be rephrased using one-sided limits?
+  - What is the difference between the MVT and Bolzano IVT we've seen before?
+  - How does $$f(x) = |x|$$ defeat the Rolle's theorem?
+
+## Week 12
+
+### Mon -- Nov 18 -- Applications and extensions of MVT
+
 ## End
