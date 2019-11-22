@@ -313,6 +313,14 @@ No extra journal.
 ### Wed -- Nov 27 -- Pre-turkey relaxation
 ### Fri -- Nov 29 -- Post-turkey relaxation
 
+## Week 14
 
- 
+### Mon -- Dec 2 -- Sec 5.2 
+
+  - In this section, notice the names of the properties being proven (Additivity, Monotonicity, Linearity, etc.). These names carry over to other areas of mathematics with similar meanings, so it's good for the breadth of your mathematical education to familiarize yourself with this language.
+  - In my opinion, Lemma 5.2.8 is a bit confusing. It establishes continuity of Riemann integrals with respect to the bounds of integration. It may be instructive to see how it applies to functions with finitely many discontinuities in the Theorem 5.2.9 (basically, integrate in intervals that exclude discontinuities and then allow the interval bounds to move and approach these discontinuities).
+  - Lemma 5.2.1 discusses additivity of of integrals over intervals. Notice how refinement again plays a role: adding a point $$b$$ into the partition can only increase $$L$$ and decrease $$U$$, so nothing is lost.
+  - Prop 5.2.10 is interesting. It says that integration doesn't care about what happens to a finite number of points. Actually, even more can be said - changing countable number of points could still be OK, as long as this countable set is not too dense.
+  - Riemann integration is not the only way to define "area under curve". The more modern approach is Lebesgue integration, which is typically taught as foundation of graduate real analysis courses. See here for a nice introduction: https://brilliant.org/wiki/lebesgue-integration/ If you are interested in learning more, here is a [pretty excellent introduction](https://www.amazon.com/Introductory-Analysis-Dover-Books-Mathematics/dp/0486612260).
+
 ## End
