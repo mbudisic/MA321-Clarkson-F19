@@ -297,4 +297,17 @@ No extra journal.
 
 ### Mon -- Nov 18 -- Applications and extensions of MVT
 
+### Wed -- Nov 20 -- Midterm 3
+
+### Fri -- Nov 22 -- Class Cancelled
+
+## Week 12
+
+### Mon -- Nov 25 -- Sec 5.1 Darboux sums and Riemann Integral
+
+  - In the Ex.5.1.4, why are all $$m_i = 0$$ and $$M_i = 1$$ regardless of the choice of the partition?
+  - Prop 5.1.8 is the crucial one. It allows the $$\sup$$ and $$\inf$$ to be attained (or approached via) **different** partitions. How is the refinement of a partition used to bridge a gap between two different partitions? 
+  - Given a function $$f$$ on $$[a,b]$$, what is the strategy for proving that the function is Riemann integrable? E.g., "$$\forall \varepsilon$$ we need to find...".
+  - Does upper/lower Darboux integral exist for any bounded function? Does Riemann integral?
+ 
 ## End
